@@ -1,0 +1,60 @@
+﻿field_path,description
+data.route_itineraries,行程列表，二维数组：第一维是方向（去程/返程），第二维是该方向的行程选项
+data.route_min_prices,每个方向/日期的最低价格摘要
+data.alternative_destination_available,是否有替代目的地可选
+route_itineraries[].[].legs,航段列表，通常一个行程一个直飞航段
+route_itineraries[].[].offers,该行程下的价格方案列表（不同舱位/规则）
+legs[].duration_minutes,航段飞行时长（分钟）
+legs[].segments,航段下的具体飞行段列表
+legs[].leg_id,航段唯一标识
+legs[].shuttle,是否摆渡航班
+legs[].franchise_info,特许经营信息
+segments[].origin / destination,起降机场/城市/国家信息
+segments[].departure / arrival,本地起降时间（YYYY-MM-DD HH:MM）
+segments[].departure_utc / arrival_utc,UTC 起降时间
+segments[].departure_offset / arrival_offset,本地与 UTC 的时差（分钟）
+segments[].marketing_airline_code/name,营销航司代码/名称
+segments[].marketing_flight_number,营销航班号
+segments[].operating_airline_code/name,实际执飞航司代码/名称
+segments[].operating_flight_number,实际执飞航班号
+segments[].aircraft_type_code/name,机型代码/名称
+segments[].duration_minutes,该段飞行时长（分钟）
+segments[].stop_quantity,经停次数（0=直飞）
+segments[].stop_airports,经停机场列表
+segments[].meal_types,餐食类型
+segments[].transfer_*,是否涉及中转、换航站楼等
+origin/destination.airport_code,IATA 机场三字码
+origin/destination.airport_name,机场名称
+origin/destination.terminal_code,航站楼代码
+origin/destination.city_code / city_name,城市代码/名称
+origin/destination.country_code / country_name,国家代码/名称
+offers[].price_total_amount,总价（含税）
+offers[].price_base_amount,基础票价
+offers[].tax_total_amount,税费总额
+offers[].taxes,税费明细（代码、名称、金额）
+offers[].currency_code,货币代码
+offers[].price_approximate,价格是否为近似值
+offers[].passenger_prices,按旅客类型拆分价格
+offers[].travel_class_code/name,舱位代码/名称
+offers[].brand_code/name,品牌/子舱位
+offers[].seat_quantity,剩余座位数
+offers[].max_stay_days,最长停留天数
+offers[].bonus_miles_percent,奖励里程百分比
+offers[].refund_allowed / exchange_allowed,是否允许退票/改期
+offers[].no_baggage,是否不含托运行李
+offers[].baggage_quantity,免费托运行李件数
+offers[].carry_on_quantity,免费手提行李件数
+offers[].baggage_weight_text,托运行李重量说明
+offers[].carry_on_weight_text,手提行李重量说明
+offers[].seat_preselection_rule,选座规则
+offers[].refund_rule / exchange_rule,退改规则文字
+offers[].attention_text,突出提示
+offers[].promotion_texts,促销/推荐文字
+offers[].offer_id,报价方案唯一标识
+offers[].booking_class_code,预订舱位代码（来自 leg_details.segment_details）
+offers[].fare_basis_code,运价基础代码
+offers[].itinerary_fare_ids,关联运价 ID 列表
+route_min_prices[].departure_date,出发日期
+route_min_prices[].currency_code,货币
+route_min_prices[].price_amount,该方向最低价格
+route_min_prices[].cabin,最低价对应舱位

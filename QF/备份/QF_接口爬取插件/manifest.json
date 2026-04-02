@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Persistent Floating Console",
+  "version": "1.0",
+  "description": "悬浮控制台 + 澳航单程流程（状态在 background 持久化，刷新可续跑）",
+  "permissions": ["storage", "activeTab", "scripting", "debugger", "downloads"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["style.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

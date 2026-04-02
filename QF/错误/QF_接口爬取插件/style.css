@@ -1,0 +1,133 @@
+#floating-console {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    height: 200px;
+    background: #1e1e1e;
+    color: white;
+    z-index: 2147483647;
+    border: 1px solid #333;
+    border-radius: 5px;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    resize: both;
+    overflow: hidden;
+    min-width: 220px;
+    min-height: 120px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.45);
+}
+
+#floating-console.fc-collapsed {
+    height: auto !important;
+    min-height: 0;
+    resize: none;
+}
+
+#floating-console.fc-collapsed .fc-body {
+    display: none;
+}
+
+#floating-console-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 8px;
+    background: #2d2d2d;
+    cursor: grab;
+    user-select: none;
+    border-bottom: 1px solid #333;
+    flex-shrink: 0;
+}
+
+#floating-console-header:active {
+    cursor: grabbing;
+}
+
+#floating-console-title {
+    font-size: 12px;
+    color: #ccc;
+}
+
+.fc-header-actions {
+    display: flex;
+    gap: 6px;
+}
+
+.fc-header-actions button {
+    padding: 2px 8px !important;
+    font-size: 11px !important;
+}
+
+.fc-body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
+}
+
+.fc-row {
+    display: flex;
+    gap: 6px;
+    padding: 4px 6px;
+    align-items: center;
+}
+
+.fc-row label {
+    width: 72px;
+    font-size: 11px;
+    color: #aaa;
+    flex-shrink: 0;
+}
+
+.fc-row input {
+    flex: 1;
+    background: #252526;
+    color: #fff;
+    border: 1px solid #444;
+    padding: 4px 6px;
+    font-size: 11px;
+}
+
+#floating-console textarea {
+    flex: 1;
+    background: #252526;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 5px;
+    resize: none;
+    font-family: monospace;
+    font-size: 11px;
+    min-height: 48px;
+}
+
+#floating-console button {
+    background: #007acc;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#floating-console button.secondary {
+    background: #3c3c3c;
+}
+
+#floating-console button.danger {
+    background: #c42b1c;
+}
+
+#fc-log {
+    max-height: 64px;
+    overflow-y: auto;
+    font-size: 10px;
+    color: #9cdcfe;
+    padding: 4px 6px;
+    background: #1a1a1a;
+    border-top: 1px solid #333;
+    white-space: pre-wrap;
+    word-break: break-all;
+}

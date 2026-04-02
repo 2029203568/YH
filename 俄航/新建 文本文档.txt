@@ -1,0 +1,2838 @@
+{
+    "data": {
+        "route_itineraries": [
+            [
+                {
+                    "legs": [
+                        {
+                            "duration_minutes": 95,
+                            "segments": [
+                                {
+                                    "origin": {
+                                        "airport_code": "LED",
+                                        "airport_name": "Пулково",
+                                        "terminal_code": "1",
+                                        "terminal_name": "",
+                                        "city_code": "LED",
+                                        "city_name": "Санкт-Петербург",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "destination": {
+                                        "airport_code": "ARH",
+                                        "airport_name": "Талаги",
+                                        "terminal_code": "",
+                                        "terminal_name": "",
+                                        "city_code": "ARH",
+                                        "city_name": "Архангельск",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "departure": "2026-03-31 15:25",
+                                    "departure_utc": "2026-03-31 12:25",
+                                    "departure_offset": 180,
+                                    "arrival": "2026-03-31 17:00",
+                                    "arrival_utc": "2026-03-31 14:00",
+                                    "arrival_offset": 180,
+                                    "marketing_airline_code": "SU",
+                                    "marketing_airline_name": "Аэрофлот",
+                                    "marketing_flight_number": "6301",
+                                    "operating_airline_code": "FV",
+                                    "operating_airline_name": "Россия",
+                                    "operating_flight_number": "6301",
+                                    "franchise_airline_code": "",
+                                    "franchise_text_short": "",
+                                    "franchise_text_long": "",
+                                    "transfer_train": false,
+                                    "transfer_terminal": false,
+                                    "transfer_airport": false,
+                                    "transfer_same_terminal": false,
+                                    "aircraft_type_code": "SU9",
+                                    "aircraft_type_name": "Sukhoi SuperJet 100",
+                                    "duration_minutes": 95,
+                                    "stop_quantity": 0,
+                                    "stop_airports": [],
+                                    "marriage_group_code": "",
+                                    "meal_types": []
+                                }
+                            ],
+                            "leg_id": "20260331-SU6301",
+                            "shuttle": false,
+                            "franchise_info": []
+                        }
+                    ],
+                    "offers": [
+                        {
+                            "price_total_amount": "5277.00",
+                            "price_base_amount": "5000.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "5277.00",
+                                    "price_base_amount": "5000.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": true,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": false,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "NB",
+                            "brand_name": "Эконом Лайт",
+                            "combinable_brand_codes": [
+                                "BA",
+                                "CA",
+                                "CN",
+                                "EE",
+                                "ER",
+                                "NB",
+                                "NE",
+                                "PE",
+                                "QE",
+                                "RE",
+                                "TE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 160,
+                            "bonus_miles_percent": 75,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "R",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "RNBR",
+                                            "brand_code": "NB",
+                                            "brand_name": "Эконом Лайт"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "unavailable",
+                            "baggage_quantity": 0,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 75%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "недоступен",
+                            "baggage_text": "0 мест",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "Без багажа",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6301-NB-RNBR-R",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "4-NB"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "8177.00",
+                            "price_base_amount": "7900.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "8177.00",
+                                    "price_base_amount": "7900.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": true,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "EC",
+                            "brand_name": "Эконом Оптимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BL",
+                                "CC",
+                                "CL",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "HE",
+                                "IE",
+                                "KE",
+                                "LE",
+                                "ME",
+                                "PB",
+                                "UE",
+                                "ZE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 160,
+                            "bonus_miles_percent": 125,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "R",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "RCLR",
+                                            "brand_code": "EC",
+                                            "brand_name": "Эконом Оптимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "paid",
+                            "baggage_quantity": 1,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 125%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "с удержанием платы",
+                            "baggage_text": "1 место",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "1 место багажа",
+                            "promotion_texts": [
+                                "Рекомендуем!",
+                                "Оптимальное сочетание цены и включенных в тариф опций",
+                                "no_view"
+                            ],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6301-EC-RCLR-R",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "5-EC"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "11077.00",
+                            "price_base_amount": "10800.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "11077.00",
+                                    "price_base_amount": "10800.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": true,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": false,
+                            "exchange_allowed": true,
+                            "travel_class_code": "comfort",
+                            "travel_class_name": "Комфорт",
+                            "brand_code": "CN",
+                            "brand_name": "Комфорт Лайт",
+                            "combinable_brand_codes": [
+                                "BA",
+                                "CA",
+                                "CN",
+                                "ER",
+                                "NB"
+                            ],
+                            "seat_quantity": 4,
+                            "max_stay_days": null,
+                            "bonus_miles_percent": 75,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "A",
+                                            "travel_class_code": "comfort",
+                                            "travel_class_name": "Комфорт",
+                                            "fare_basis_code": "ANB1R",
+                                            "brand_code": "CN",
+                                            "brand_name": "Комфорт Лайт"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "unavailable",
+                            "baggage_quantity": 0,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 75%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "платный",
+                            "exchange_airport_text": "",
+                            "refund_text": "недоступен",
+                            "baggage_text": "0 мест",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6301-CN-ANB1R-A",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "7-CN"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "13977.00",
+                            "price_base_amount": "13700.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "13977.00",
+                                    "price_base_amount": "13700.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": true,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "EL",
+                            "brand_name": "Эконом Максимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BE",
+                                "BL",
+                                "CC",
+                                "CE",
+                                "CL",
+                                "DE",
+                                "EC",
+                                "EL",
+                                "JE",
+                                "PM",
+                                "YE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 160,
+                            "bonus_miles_percent": 150,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "R",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "RFMR",
+                                            "brand_code": "EL",
+                                            "brand_name": "Эконом Максимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "available",
+                            "exchange_rule": "available",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "available",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 150%",
+                            "upgrade_miles_text": "доступен",
+                            "exchange_text": "без доплаты",
+                            "exchange_airport_text": "",
+                            "refund_text": "без удержания",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 23 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "Обмен и возврат",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6301-EL-RFMR-R",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "6-EL"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "14577.00",
+                            "price_base_amount": "14300.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "14577.00",
+                                    "price_base_amount": "14300.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": true,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "comfort",
+                            "travel_class_name": "Комфорт",
+                            "brand_code": "CC",
+                            "brand_name": "Комфорт Оптимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BL",
+                                "CC",
+                                "CL",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "HE",
+                                "IE",
+                                "KE",
+                                "LE",
+                                "ME",
+                                "PB",
+                                "UE",
+                                "ZE"
+                            ],
+                            "seat_quantity": 4,
+                            "max_stay_days": 355,
+                            "bonus_miles_percent": 150,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "A",
+                                            "travel_class_code": "comfort",
+                                            "travel_class_name": "Комфорт",
+                                            "fare_basis_code": "ACL1R",
+                                            "brand_code": "CC",
+                                            "brand_name": "Комфорт Оптимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "paid",
+                            "baggage_quantity": 1,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 150%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с удержанием платы",
+                            "exchange_airport_text": "",
+                            "refund_text": "с удержанием платы",
+                            "baggage_text": "1 место",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [
+                                "Рекомендуем!",
+                                "Оптимальное сочетание цены и включенных в тариф опций",
+                                "no_view"
+                            ],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6301-CC-ACL1R-A",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "8-CC"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "21577.00",
+                            "price_base_amount": "21300.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "21577.00",
+                                    "price_base_amount": "21300.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": true,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "comfort",
+                            "travel_class_name": "Комфорт",
+                            "brand_code": "CL",
+                            "brand_name": "Комфорт Максимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BE",
+                                "BL",
+                                "CC",
+                                "CE",
+                                "CL",
+                                "DE",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "JE",
+                                "PM",
+                                "YE"
+                            ],
+                            "seat_quantity": 4,
+                            "max_stay_days": 355,
+                            "bonus_miles_percent": 175,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "A",
+                                            "travel_class_code": "comfort",
+                                            "travel_class_name": "Комфорт",
+                                            "fare_basis_code": "AFM1R",
+                                            "brand_code": "CL",
+                                            "brand_name": "Комфорт Максимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "available",
+                            "exchange_rule": "available",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "available",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 175%",
+                            "upgrade_miles_text": "доступен",
+                            "exchange_text": "без доплаты",
+                            "exchange_airport_text": "",
+                            "refund_text": "без удержания",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 23 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6301-CL-AFM1R-A",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "9-CL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "legs": [
+                        {
+                            "duration_minutes": 95,
+                            "segments": [
+                                {
+                                    "origin": {
+                                        "airport_code": "LED",
+                                        "airport_name": "Пулково",
+                                        "terminal_code": "1",
+                                        "terminal_name": "",
+                                        "city_code": "LED",
+                                        "city_name": "Санкт-Петербург",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "destination": {
+                                        "airport_code": "ARH",
+                                        "airport_name": "Талаги",
+                                        "terminal_code": "",
+                                        "terminal_name": "",
+                                        "city_code": "ARH",
+                                        "city_name": "Архангельск",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "departure": "2026-03-31 21:50",
+                                    "departure_utc": "2026-03-31 18:50",
+                                    "departure_offset": 180,
+                                    "arrival": "2026-03-31 23:25",
+                                    "arrival_utc": "2026-03-31 20:25",
+                                    "arrival_offset": 180,
+                                    "marketing_airline_code": "SU",
+                                    "marketing_airline_name": "Аэрофлот",
+                                    "marketing_flight_number": "6307",
+                                    "operating_airline_code": "FV",
+                                    "operating_airline_name": "Россия",
+                                    "operating_flight_number": "6307",
+                                    "franchise_airline_code": "",
+                                    "franchise_text_short": "",
+                                    "franchise_text_long": "",
+                                    "transfer_train": false,
+                                    "transfer_terminal": false,
+                                    "transfer_airport": false,
+                                    "transfer_same_terminal": false,
+                                    "aircraft_type_code": "319",
+                                    "aircraft_type_name": "Airbus A319",
+                                    "duration_minutes": 95,
+                                    "stop_quantity": 0,
+                                    "stop_airports": [],
+                                    "marriage_group_code": "",
+                                    "meal_types": []
+                                }
+                            ],
+                            "leg_id": "20260331-SU6307",
+                            "shuttle": false,
+                            "franchise_info": []
+                        }
+                    ],
+                    "offers": [
+                        {
+                            "price_total_amount": "4627.00",
+                            "price_base_amount": "4350.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "4627.00",
+                                    "price_base_amount": "4350.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": true,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": false,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "NB",
+                            "brand_name": "Эконом Лайт",
+                            "combinable_brand_codes": [
+                                "BA",
+                                "CA",
+                                "CN",
+                                "EE",
+                                "ER",
+                                "NB",
+                                "NE",
+                                "PE",
+                                "QE",
+                                "RE",
+                                "TE"
+                            ],
+                            "seat_quantity": 7,
+                            "max_stay_days": null,
+                            "bonus_miles_percent": 75,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "G",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "GNBR",
+                                            "brand_code": "NB",
+                                            "brand_name": "Эконом Лайт"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "unavailable",
+                            "baggage_quantity": 0,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 75%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "недоступен",
+                            "baggage_text": "0 мест",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "Без багажа",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6307-NB-GNBR-G",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "1-NB"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "7527.00",
+                            "price_base_amount": "7250.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "7527.00",
+                                    "price_base_amount": "7250.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": true,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "EC",
+                            "brand_name": "Эконом Оптимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BL",
+                                "CC",
+                                "CL",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "HE",
+                                "IE",
+                                "KE",
+                                "LE",
+                                "ME",
+                                "PB",
+                                "UE",
+                                "ZE"
+                            ],
+                            "seat_quantity": 7,
+                            "max_stay_days": null,
+                            "bonus_miles_percent": 125,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "G",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "GCLR",
+                                            "brand_code": "EC",
+                                            "brand_name": "Эконом Оптимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "paid",
+                            "baggage_quantity": 1,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 125%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "с удержанием платы",
+                            "baggage_text": "1 место",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "1 место багажа",
+                            "promotion_texts": [
+                                "Рекомендуем!",
+                                "Оптимальное сочетание цены и включенных в тариф опций",
+                                "no_view"
+                            ],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6307-EC-GCLR-G",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "2-EC"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "13327.00",
+                            "price_base_amount": "13050.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "13327.00",
+                                    "price_base_amount": "13050.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": true,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "EL",
+                            "brand_name": "Эконом Максимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BE",
+                                "BL",
+                                "CC",
+                                "CE",
+                                "CL",
+                                "DE",
+                                "EC",
+                                "EL",
+                                "JE",
+                                "PM",
+                                "YE"
+                            ],
+                            "seat_quantity": 7,
+                            "max_stay_days": null,
+                            "bonus_miles_percent": 150,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "G",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "GFMR",
+                                            "brand_code": "EL",
+                                            "brand_name": "Эконом Максимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "available",
+                            "exchange_rule": "available",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "available",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 150%",
+                            "upgrade_miles_text": "доступен",
+                            "exchange_text": "без доплаты",
+                            "exchange_airport_text": "",
+                            "refund_text": "без удержания",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 23 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "Обмен и возврат",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6307-EL-GFMR-G",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "3-EL"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "26527.00",
+                            "price_base_amount": "26250.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "26527.00",
+                                    "price_base_amount": "26250.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": false,
+                            "exchange_allowed": true,
+                            "travel_class_code": "business",
+                            "travel_class_name": "Бизнес",
+                            "brand_code": "BA",
+                            "brand_name": "Бизнес Базовый",
+                            "combinable_brand_codes": [
+                                "BA",
+                                "CA",
+                                "CN",
+                                "EE",
+                                "ER",
+                                "NB",
+                                "NE",
+                                "PE",
+                                "QE",
+                                "RE",
+                                "TE"
+                            ],
+                            "seat_quantity": 4,
+                            "max_stay_days": 175,
+                            "bonus_miles_percent": 175,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "Z",
+                                            "travel_class_code": "business",
+                                            "travel_class_name": "Бизнес",
+                                            "fare_basis_code": "ZBS1R",
+                                            "brand_code": "BA",
+                                            "brand_name": "Бизнес Базовый"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "unavailable",
+                            "baggage_quantity": 1,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 175%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "недоступен",
+                            "baggage_text": "1 место",
+                            "baggage_weight_text": "до 32 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 15 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6307-BA-ZBS1R-Z",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "10-BA"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "33527.00",
+                            "price_base_amount": "33250.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "33527.00",
+                                    "price_base_amount": "33250.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": true,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "business",
+                            "travel_class_name": "Бизнес",
+                            "brand_code": "BC",
+                            "brand_name": "Бизнес Оптимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BL",
+                                "CC",
+                                "CL",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "HE",
+                                "IE",
+                                "KE",
+                                "LE",
+                                "ME",
+                                "PB",
+                                "UE",
+                                "ZE"
+                            ],
+                            "seat_quantity": 4,
+                            "max_stay_days": 175,
+                            "bonus_miles_percent": 200,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "Z",
+                                            "travel_class_code": "business",
+                                            "travel_class_name": "Бизнес",
+                                            "fare_basis_code": "ZCL1R",
+                                            "brand_code": "BC",
+                                            "brand_name": "Бизнес Оптимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "paid",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 200%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "с удержанием платы",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 32 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 15 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [
+                                "Рекомендуем!",
+                                "Оптимальное сочетание цены и включенных в тариф опций",
+                                "no_view"
+                            ],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6307-BC-ZCL1R-Z",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "11-BC"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "47527.00",
+                            "price_base_amount": "47250.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "47527.00",
+                                    "price_base_amount": "47250.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "business",
+                            "travel_class_name": "Бизнес",
+                            "brand_code": "BL",
+                            "brand_name": "Бизнес Максимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BE",
+                                "BL",
+                                "CC",
+                                "CE",
+                                "CL",
+                                "DE",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "JE",
+                                "PM",
+                                "YE"
+                            ],
+                            "seat_quantity": 4,
+                            "max_stay_days": 175,
+                            "bonus_miles_percent": 250,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "Z",
+                                            "travel_class_code": "business",
+                                            "travel_class_name": "Бизнес",
+                                            "fare_basis_code": "ZFM1R",
+                                            "brand_code": "BL",
+                                            "brand_name": "Бизнес Максимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "available",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "available",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 250%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "без доплаты",
+                            "exchange_airport_text": "",
+                            "refund_text": "без удержания",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 32 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 15 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260331-SU6307-BL-ZFM1R-Z",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "12-BL"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "legs": [
+                        {
+                            "duration_minutes": 90,
+                            "segments": [
+                                {
+                                    "origin": {
+                                        "airport_code": "ARH",
+                                        "airport_name": "Талаги",
+                                        "terminal_code": "",
+                                        "terminal_name": "",
+                                        "city_code": "ARH",
+                                        "city_name": "Архангельск",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "destination": {
+                                        "airport_code": "LED",
+                                        "airport_name": "Пулково",
+                                        "terminal_code": "1",
+                                        "terminal_name": "",
+                                        "city_code": "LED",
+                                        "city_name": "Санкт-Петербург",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "departure": "2026-04-01 07:15",
+                                    "departure_utc": "2026-04-01 04:15",
+                                    "departure_offset": 180,
+                                    "arrival": "2026-04-01 08:45",
+                                    "arrival_utc": "2026-04-01 05:45",
+                                    "arrival_offset": 180,
+                                    "marketing_airline_code": "SU",
+                                    "marketing_airline_name": "Аэрофлот",
+                                    "marketing_flight_number": "6308",
+                                    "operating_airline_code": "FV",
+                                    "operating_airline_name": "Россия",
+                                    "operating_flight_number": "6308",
+                                    "franchise_airline_code": "",
+                                    "franchise_text_short": "",
+                                    "franchise_text_long": "",
+                                    "transfer_train": false,
+                                    "transfer_terminal": false,
+                                    "transfer_airport": false,
+                                    "transfer_same_terminal": false,
+                                    "aircraft_type_code": "319",
+                                    "aircraft_type_name": "Airbus A319",
+                                    "duration_minutes": 90,
+                                    "stop_quantity": 0,
+                                    "stop_airports": [],
+                                    "marriage_group_code": "",
+                                    "meal_types": []
+                                }
+                            ],
+                            "leg_id": "20260401-SU6308",
+                            "shuttle": false,
+                            "franchise_info": []
+                        }
+                    ],
+                    "offers": [
+                        {
+                            "price_total_amount": "56967.00",
+                            "price_base_amount": "56690.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "56967.00",
+                                    "price_base_amount": "56690.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": false,
+                            "exchange_allowed": true,
+                            "travel_class_code": "business",
+                            "travel_class_name": "Бизнес",
+                            "brand_code": "BA",
+                            "brand_name": "Бизнес Базовый",
+                            "combinable_brand_codes": [
+                                "BA",
+                                "CA",
+                                "CN",
+                                "EE",
+                                "ER",
+                                "NB",
+                                "NE",
+                                "PE",
+                                "QE",
+                                "RE",
+                                "TE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 60,
+                            "bonus_miles_percent": 175,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "C",
+                                            "travel_class_code": "business",
+                                            "travel_class_name": "Бизнес",
+                                            "fare_basis_code": "CBSR",
+                                            "brand_code": "BA",
+                                            "brand_name": "Бизнес Базовый"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "unavailable",
+                            "baggage_quantity": 1,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 175%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "недоступен",
+                            "baggage_text": "1 место",
+                            "baggage_weight_text": "до 32 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 15 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6308-BA-CBSR-C",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "10-BA"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "65567.00",
+                            "price_base_amount": "65290.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "65567.00",
+                                    "price_base_amount": "65290.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": true,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "business",
+                            "travel_class_name": "Бизнес",
+                            "brand_code": "BC",
+                            "brand_name": "Бизнес Оптимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BL",
+                                "CC",
+                                "CL",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "HE",
+                                "IE",
+                                "KE",
+                                "LE",
+                                "ME",
+                                "PB",
+                                "UE",
+                                "ZE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 360,
+                            "bonus_miles_percent": 225,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "C",
+                                            "travel_class_code": "business",
+                                            "travel_class_name": "Бизнес",
+                                            "fare_basis_code": "CCLR",
+                                            "brand_code": "BC",
+                                            "brand_name": "Бизнес Оптимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "paid",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 225%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "с удержанием платы",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 32 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 15 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [
+                                "Рекомендуем!",
+                                "Оптимальное сочетание цены и включенных в тариф опций",
+                                "no_view"
+                            ],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6308-BC-CCLR-C",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "11-BC"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "82767.00",
+                            "price_base_amount": "82490.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "82767.00",
+                                    "price_base_amount": "82490.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "business",
+                            "travel_class_name": "Бизнес",
+                            "brand_code": "BL",
+                            "brand_name": "Бизнес Максимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BE",
+                                "BL",
+                                "CC",
+                                "CE",
+                                "CL",
+                                "DE",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "JE",
+                                "PM",
+                                "YE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 360,
+                            "bonus_miles_percent": 300,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "C",
+                                            "travel_class_code": "business",
+                                            "travel_class_name": "Бизнес",
+                                            "fare_basis_code": "CFMR",
+                                            "brand_code": "BL",
+                                            "brand_name": "Бизнес Максимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "available",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "available",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 300%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "без доплаты",
+                            "exchange_airport_text": "",
+                            "refund_text": "без удержания",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 32 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 15 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6308-BL-CFMR-C",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "12-BL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "legs": [
+                        {
+                            "duration_minutes": 100,
+                            "segments": [
+                                {
+                                    "origin": {
+                                        "airport_code": "ARH",
+                                        "airport_name": "Талаги",
+                                        "terminal_code": "",
+                                        "terminal_name": "",
+                                        "city_code": "ARH",
+                                        "city_name": "Архангельск",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "destination": {
+                                        "airport_code": "LED",
+                                        "airport_name": "Пулково",
+                                        "terminal_code": "1",
+                                        "terminal_name": "",
+                                        "city_code": "LED",
+                                        "city_name": "Санкт-Петербург",
+                                        "country_code": "RU",
+                                        "country_name": "Россия"
+                                    },
+                                    "departure": "2026-04-01 18:00",
+                                    "departure_utc": "2026-04-01 15:00",
+                                    "departure_offset": 180,
+                                    "arrival": "2026-04-01 19:40",
+                                    "arrival_utc": "2026-04-01 16:40",
+                                    "arrival_offset": 180,
+                                    "marketing_airline_code": "SU",
+                                    "marketing_airline_name": "Аэрофлот",
+                                    "marketing_flight_number": "6302",
+                                    "operating_airline_code": "FV",
+                                    "operating_airline_name": "Россия",
+                                    "operating_flight_number": "6302",
+                                    "franchise_airline_code": "",
+                                    "franchise_text_short": "",
+                                    "franchise_text_long": "",
+                                    "transfer_train": false,
+                                    "transfer_terminal": false,
+                                    "transfer_airport": false,
+                                    "transfer_same_terminal": false,
+                                    "aircraft_type_code": "SU9",
+                                    "aircraft_type_name": "Sukhoi SuperJet 100",
+                                    "duration_minutes": 100,
+                                    "stop_quantity": 0,
+                                    "stop_airports": [],
+                                    "marriage_group_code": "",
+                                    "meal_types": []
+                                }
+                            ],
+                            "leg_id": "20260401-SU6302",
+                            "shuttle": false,
+                            "franchise_info": []
+                        }
+                    ],
+                    "offers": [
+                        {
+                            "price_total_amount": "12347.00",
+                            "price_base_amount": "12070.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "12347.00",
+                                    "price_base_amount": "12070.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": true,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": false,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "NB",
+                            "brand_name": "Эконом Лайт",
+                            "combinable_brand_codes": [
+                                "BA",
+                                "CA",
+                                "CN",
+                                "EE",
+                                "ER",
+                                "NB",
+                                "NE",
+                                "PE",
+                                "QE",
+                                "RE",
+                                "TE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 355,
+                            "bonus_miles_percent": 125,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "K",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "KNBR",
+                                            "brand_code": "NB",
+                                            "brand_name": "Эконом Лайт"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "unavailable",
+                            "baggage_quantity": 0,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 125%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "недоступен",
+                            "baggage_text": "0 мест",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "Без багажа",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6302-NB-KNBR-K",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "1-NB",
+                                "4-NB"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "15247.00",
+                            "price_base_amount": "14970.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "15247.00",
+                                    "price_base_amount": "14970.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": true,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "EC",
+                            "brand_name": "Эконом Оптимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BL",
+                                "CC",
+                                "CL",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "HE",
+                                "IE",
+                                "KE",
+                                "LE",
+                                "ME",
+                                "PB",
+                                "UE",
+                                "ZE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 355,
+                            "bonus_miles_percent": 150,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "K",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "KCLR",
+                                            "brand_code": "EC",
+                                            "brand_name": "Эконом Оптимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "paid",
+                            "baggage_quantity": 1,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 150%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с доплатой",
+                            "exchange_airport_text": "",
+                            "refund_text": "с удержанием платы",
+                            "baggage_text": "1 место",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "1 место багажа",
+                            "promotion_texts": [
+                                "Рекомендуем!",
+                                "Оптимальное сочетание цены и включенных в тариф опций",
+                                "no_view"
+                            ],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6302-EC-KCLR-K",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "2-EC",
+                                "5-EC"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "18147.00",
+                            "price_base_amount": "17870.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "18147.00",
+                                    "price_base_amount": "17870.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": true,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": false,
+                            "exchange_allowed": true,
+                            "travel_class_code": "comfort",
+                            "travel_class_name": "Комфорт",
+                            "brand_code": "CN",
+                            "brand_name": "Комфорт Лайт",
+                            "combinable_brand_codes": [
+                                "BA",
+                                "CA",
+                                "CN",
+                                "ER",
+                                "NB"
+                            ],
+                            "seat_quantity": 3,
+                            "max_stay_days": null,
+                            "bonus_miles_percent": 75,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "A",
+                                            "travel_class_code": "comfort",
+                                            "travel_class_name": "Комфорт",
+                                            "fare_basis_code": "ANB8R",
+                                            "brand_code": "CN",
+                                            "brand_name": "Комфорт Лайт"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "unavailable",
+                            "baggage_quantity": 0,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 75%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "платный",
+                            "exchange_airport_text": "",
+                            "refund_text": "недоступен",
+                            "baggage_text": "0 мест",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6302-CN-ANB8R-A",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "7-CN"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "21047.00",
+                            "price_base_amount": "20770.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "21047.00",
+                                    "price_base_amount": "20770.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": true,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "economy",
+                            "travel_class_name": "Эконом",
+                            "brand_code": "EL",
+                            "brand_name": "Эконом Максимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BE",
+                                "BL",
+                                "CC",
+                                "CE",
+                                "CL",
+                                "DE",
+                                "EC",
+                                "EL",
+                                "JE",
+                                "PM",
+                                "YE"
+                            ],
+                            "seat_quantity": 1,
+                            "max_stay_days": 355,
+                            "bonus_miles_percent": 200,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "K",
+                                            "travel_class_code": "economy",
+                                            "travel_class_name": "Эконом",
+                                            "fare_basis_code": "KFMR",
+                                            "brand_code": "EL",
+                                            "brand_name": "Эконом Максимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "available",
+                            "exchange_rule": "available",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "available",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 200%",
+                            "upgrade_miles_text": "доступен",
+                            "exchange_text": "без доплаты",
+                            "exchange_airport_text": "",
+                            "refund_text": "без удержания",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 23 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "Обмен и возврат",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6302-EL-KFMR-K",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "3-EL",
+                                "6-EL"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "21747.00",
+                            "price_base_amount": "21470.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "21747.00",
+                                    "price_base_amount": "21470.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": false,
+                            "marketing_campaign": false,
+                            "recommended": true,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": false,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "comfort",
+                            "travel_class_name": "Комфорт",
+                            "brand_code": "CC",
+                            "brand_name": "Комфорт Оптимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BL",
+                                "CC",
+                                "CL",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "HE",
+                                "IE",
+                                "KE",
+                                "LE",
+                                "ME",
+                                "PB",
+                                "UE",
+                                "ZE"
+                            ],
+                            "seat_quantity": 3,
+                            "max_stay_days": 355,
+                            "bonus_miles_percent": 150,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "A",
+                                            "travel_class_code": "comfort",
+                                            "travel_class_name": "Комфорт",
+                                            "fare_basis_code": "ACL8R",
+                                            "brand_code": "CC",
+                                            "brand_name": "Комфорт Оптимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "paid",
+                            "upgrade_miles_rule": "unavailable",
+                            "exchange_rule": "paid",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "paid",
+                            "baggage_quantity": 1,
+                            "carry_on_quantity": 1,
+                            "seat_text": "платный",
+                            "bonus_miles_text": "Бонусные мили – 150%",
+                            "upgrade_miles_text": "недоступен",
+                            "exchange_text": "с удержанием платы",
+                            "exchange_airport_text": "",
+                            "refund_text": "с удержанием платы",
+                            "baggage_text": "1 место",
+                            "baggage_weight_text": "до 23 кг",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [
+                                "Рекомендуем!",
+                                "Оптимальное сочетание цены и включенных в тариф опций",
+                                "no_view"
+                            ],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6302-CC-ACL8R-A",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "8-CC"
+                            ]
+                        },
+                        {
+                            "price_total_amount": "28947.00",
+                            "price_base_amount": "28670.00",
+                            "tax_total_amount": "277.00",
+                            "taxes": [
+                                {
+                                    "tax_code": "YR",
+                                    "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                    "tax_amount": "65.00"
+                                },
+                                {
+                                    "tax_code": "RI",
+                                    "tax_name": "Терминальный сбор, Российская Федерация",
+                                    "tax_amount": "212.00"
+                                }
+                            ],
+                            "mileage_amount": "0",
+                            "currency_code": "RUB",
+                            "price_approximate": true,
+                            "voucher_discount_percent": 0,
+                            "passenger_prices": [
+                                {
+                                    "passenger_type_code": "adult",
+                                    "passenger_type_name": "Взрослый",
+                                    "passenger_quantity": 1,
+                                    "price_total_amount": "28947.00",
+                                    "price_base_amount": "28670.00",
+                                    "tax_total_amount": "277.00",
+                                    "taxes": [
+                                        {
+                                            "tax_code": "YR",
+                                            "tax_name": "Сбор за предоставление услуг автоматизированных систем бронирования",
+                                            "tax_amount": "65.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "71.00"
+                                        },
+                                        {
+                                            "tax_code": "RI",
+                                            "tax_name": "Терминальный сбор, Российская Федерация",
+                                            "tax_amount": "141.00"
+                                        }
+                                    ],
+                                    "currency_code": "RUB"
+                                }
+                            ],
+                            "hit": false,
+                            "sky_priority": true,
+                            "marketing_campaign": false,
+                            "recommended": false,
+                            "no_baggage": false,
+                            "double_award": false,
+                            "upgrade_miles_allowed": true,
+                            "refund_allowed": true,
+                            "exchange_allowed": true,
+                            "travel_class_code": "comfort",
+                            "travel_class_name": "Комфорт",
+                            "brand_code": "CL",
+                            "brand_name": "Комфорт Максимум",
+                            "combinable_brand_codes": [
+                                "BC",
+                                "BE",
+                                "BL",
+                                "CC",
+                                "CE",
+                                "CL",
+                                "DE",
+                                "EC",
+                                "EL",
+                                "FT",
+                                "JE",
+                                "PM",
+                                "YE"
+                            ],
+                            "seat_quantity": 3,
+                            "max_stay_days": 355,
+                            "bonus_miles_percent": 175,
+                            "leg_details": [
+                                {
+                                    "segment_details": [
+                                        {
+                                            "booking_class_code": "A",
+                                            "travel_class_code": "comfort",
+                                            "travel_class_name": "Комфорт",
+                                            "fare_basis_code": "AFM8R",
+                                            "brand_code": "CL",
+                                            "brand_name": "Комфорт Максимум"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "seat_preselection_rule": "available",
+                            "upgrade_miles_rule": "available",
+                            "exchange_rule": "available",
+                            "exchange_airport_rule": "",
+                            "refund_rule": "available",
+                            "baggage_quantity": 2,
+                            "carry_on_quantity": 1,
+                            "seat_text": "бесплатный",
+                            "bonus_miles_text": "Бонусные мили – 175%",
+                            "upgrade_miles_text": "доступен",
+                            "exchange_text": "без доплаты",
+                            "exchange_airport_text": "",
+                            "refund_text": "без удержания",
+                            "baggage_text": "2 места",
+                            "baggage_weight_text": "до 23 кг каждое",
+                            "carry_on_text": "1 место",
+                            "carry_on_weight_text": "до 10 кг",
+                            "carry_on_dimension_text": "",
+                            "attention_text": "",
+                            "promotion_texts": [],
+                            "rule_id": 0,
+                            "offer_id": "20260401-SU6302-CL-AFM8R-A",
+                            "alternative_offers": [],
+                            "combinable_route_offer_refs": [],
+                            "itinerary_fare_ids": [
+                                "9-CL"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ],
+        "route_min_prices": [
+            [
+                {
+                    "departure_date": "2026-03-31",
+                    "currency_code": "RUB",
+                    "price_amount": "4627.00",
+                    "mileage_amount": "0",
+                    "cabin": "economy"
+                }
+            ],
+            [
+                {
+                    "departure_date": "2026-04-01",
+                    "currency_code": "RUB",
+                    "price_amount": "12347.00",
+                    "mileage_amount": "0",
+                    "cabin": "economy"
+                }
+            ]
+        ],
+        "alternative_destination_available": false
+    },
+    "success": true,
+    "error": null
+}
